@@ -144,7 +144,7 @@ Two configurations were tested: the standalone trigger circuit and the complete 
 | Maximum latency | 103 µs | 244 µs |
 | Measurements | 39 | 55 |
 
-These prototype measurements demonstrated sub-millisecond response times with low timing variation under the evaluated test conditions. In the oscilloscope measurements below, the yellow trace (Probe A) represents the audio trigger signal, while the blue trace (Probe B) represents the LED activation signal.
+These prototype measurements demonstrated sub-millisecond response times with low timing variation under the evaluated test conditions. In the oscilloscope measurements below, the yellow trace (A) represents the audio trigger signal, while the blue trace (B) represents the LED activation signal.
 
 <img width="563" height="316" alt="image" src="https://github.com/user-attachments/assets/8d8684b4-40dc-465e-b924-1f84969496a1" />
 
@@ -173,6 +173,14 @@ This result highlighted the importance of analyzing the complete signal chain ra
     </td>
   </tr>
 </table>
+
+<br>
+
+The oscilloscope measurement below clearly shows the **232 µs latency** between the onset of the audio signal (A) and the corresponding LED trigger activation (B).
+
+<p align="center">
+  <img width="671" height="376" alt="image" src="https://github.com/user-attachments/assets/cc0d743b-6a1f-4b3c-9828-45b6b34d6151" />
+</p>
 
 <br>
 <br>
