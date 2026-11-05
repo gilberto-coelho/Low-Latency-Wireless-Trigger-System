@@ -209,7 +209,6 @@ The design process considered component placement, electrical connections, enclo
 </table>
 
 <br>
-<br>
 
 ### 7. Mechanical Design and Enclosure Integration
 
