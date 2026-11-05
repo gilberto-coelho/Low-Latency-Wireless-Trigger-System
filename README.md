@@ -249,6 +249,10 @@ The images and experimental results are provided to demonstrate the engineering 
 
 ---
 
-**Developed by Gilberto Coelho | 2026**
+## Author
 
-Electronics Development | Embedded Systems | Instrumentation | Product Design
+**Gilberto Coelho**
+
+Electronics & Embedded Systems Developer
+
+This project was independently developed in response to a client's requirements for a low-latency triggering system for athletics photo-finish synchronization, covering electronic prototyping, experimental testing, PCB design, and 3D product development.
