@@ -137,28 +137,7 @@ This analysis demonstrated that system performance depends not only on the elect
 
 <br>
 
-### 4. Latency and Jitter Evaluation
-
-The electronic prototype was evaluated through repeated oscilloscope measurements to characterize trigger latency and timing consistency.
-
-Two configurations were tested: the standalone trigger circuit and the complete wireless triggering system.
-
-| Parameter | Trigger Circuit | Wireless System |
-|---|---:|---:|
-| Average latency | 97 µs | 217 µs |
-| Jitter (standard deviation) | 4 µs | 11 µs |
-| Minimum latency | 85 µs | 191 µs |
-| Maximum latency | 103 µs | 244 µs |
-| Measurements | 39 | 55 |
-
-These prototype measurements demonstrated sub-millisecond response times with low timing variation under the evaluated test conditions. In the oscilloscope measurements below, the yellow trace (A) represents the audio trigger signal, while the blue trace (B) represents the LED activation signal.
-
-<img width="563" height="316" alt="image" src="https://github.com/user-attachments/assets/8d8684b4-40dc-465e-b924-1f84969496a1" />
-
-<br>
-<br>
-
-### 5. Signal Optimization
+### 4. Signal Optimization
 
 Further experiments demonstrated the importance of input waveform characteristics.
 
@@ -189,6 +168,27 @@ The oscilloscope measurement below clearly shows the **232 µs latency** between
   <img width="671" height="376" alt="image" src="https://github.com/user-attachments/assets/cc0d743b-6a1f-4b3c-9828-45b6b34d6151" />
 </p>
 
+<br>
+
+### 5. Latency and Jitter Evaluation
+
+The electronic prototype was evaluated through repeated oscilloscope measurements to characterize trigger latency and timing consistency.
+
+Two configurations were tested: the standalone trigger circuit and the complete wireless triggering system.
+
+| Parameter | Trigger Circuit | Wireless System |
+|---|---:|---:|
+| Average latency | 97 µs | 217 µs |
+| Jitter (standard deviation) | 4 µs | 11 µs |
+| Minimum latency | 85 µs | 191 µs |
+| Maximum latency | 103 µs | 244 µs |
+| Measurements | 39 | 55 |
+
+These prototype measurements demonstrated sub-millisecond response times with low timing variation under the evaluated test conditions. In the oscilloscope measurements below, the yellow trace (A) represents the audio trigger signal, while the blue trace (B) represents the LED activation signal.
+
+<img width="563" height="316" alt="image" src="https://github.com/user-attachments/assets/8d8684b4-40dc-465e-b924-1f84969496a1" />
+
+<br>
 <br>
 
 ### 6. PCB and Electronic Product Design
