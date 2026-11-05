@@ -40,6 +40,8 @@ A standalone device that detects an audio starting signal and activates a high-p
   <img width="650" alt="BEACON INFO" src="https://github.com/user-attachments/assets/ce617b3a-61b2-4e8a-990d-884d4ec76a77" />
 </p>
 
+<br>
+
 **2. Wireless Trigger**
 
 A transmitter and receiver system that detects the audio signal and activates a remote LED positioned within the camera's field of view.
@@ -47,6 +49,8 @@ A transmitter and receiver system that detects the audio signal and activates a 
 <p align="center">
   <img width="650" alt="WIRELESS TRIGGER INFO" src="https://github.com/user-attachments/assets/8e077cb0-110b-4b35-9190-d9e9affa6c4c" />
 </p>
+
+<br>
 
 **3. Hybrid System**
 
@@ -124,7 +128,6 @@ This analysis demonstrated that system performance depends not only on the elect
   </tr>
 </table>
 
-<br>
 <br>
 
 ### 4. Latency and Jitter Evaluation
