@@ -98,9 +98,16 @@ Circuit configurations were evaluated experimentally and refined based on oscill
 
 One of the main challenges was understanding how different audio waveforms affected trigger response time.
 
-Several starting sounds were investigated using an oscilloscope, revealing significant differences in their initial waveform characteristics.
+Several starting sounds were investigated using an oscilloscope, revealing significant differences in their initial waveform characteristics. The measured trigger latencies were:
+
+- **Shot:** 236 µs
+- **Beep:** 744 µs
+- **Whistle:** approximately 100 ms
+- **Eshot:** 4.5 ms
 
 Signals with sharp initial rising edges produced considerably faster triggering, while signals with gradual amplitude increases or low-amplitude initial regions introduced additional detection delays.
+
+The **Eshot signal required optimization**, as its initial latency of 4.5 ms exceeded the maximum acceptable latency of 1 ms. The delay was primarily associated with the characteristics of the initial audio waveform rather than the electronic circuit itself.
 
 This analysis demonstrated that system performance depends not only on the electronic hardware but also on the characteristics of the input signal.
 
@@ -182,7 +189,6 @@ The oscilloscope measurement below clearly shows the **232 µs latency** between
   <img width="671" height="376" alt="image" src="https://github.com/user-attachments/assets/cc0d743b-6a1f-4b3c-9828-45b6b34d6151" />
 </p>
 
-<br>
 <br>
 
 ### 6. PCB and Electronic Product Design
