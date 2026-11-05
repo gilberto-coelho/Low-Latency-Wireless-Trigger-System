@@ -44,19 +44,18 @@ A transmitter and receiver system that detects the audio signal and activates a 
 
 A combined configuration integrating the optical beacon and wireless transmission, allowing simultaneous local and remote visual indication.
 
-<table>
-  <tr>
-    <td width="33.33%">
-      <img width="5456" height="2734" alt="BEACON INFO" src="https://github.com/user-attachments/assets/ce617b3a-61b2-4e8a-990d-884d4ec76a77" />
-    </td>
-    <td width="33.33%">
-      <img width="5512" height="2762" alt="WIRELESS TRIGGER INFO" src="https://github.com/user-attachments/assets/8e077cb0-110b-4b35-9190-d9e9affa6c4c" />
-    </td>
-    <td width="33.33%">
-      <img width="5470" height="2741" alt="COMBO INFO" src="https://github.com/user-attachments/assets/9e2d3242-bbf5-4dfa-b9f9-56d1b82c09ff" />
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img width="650" alt="BEACON INFO" src="https://github.com/user-attachments/assets/ce617b3a-61b2-4e8a-990d-884d4ec76a77" />
+</p>
+
+<p align="center">
+  <img width="650" alt="WIRELESS TRIGGER INFO" src="https://github.com/user-attachments/assets/8e077cb0-110b-4b35-9190-d9e9affa6c4c" />
+</p>
+
+<p align="center">
+  <img width="650" alt="COMBO INFO" src="https://github.com/user-attachments/assets/9e2d3242-bbf5-4dfa-b9f9-56d1b82c09ff" />
+</p>
 
 <br>
 <br>
