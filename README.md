@@ -36,29 +36,22 @@ Three configurations were considered:
 
 A standalone device that detects an audio starting signal and activates a high-power LED, allowing a distant camera to capture the starting event.
 
+<p align="center">
+  <img width="650" alt="BEACON INFO" src="https://github.com/user-attachments/assets/ce617b3a-61b2-4e8a-990d-884d4ec76a77" />
+</p>
+
 **2. Wireless Trigger**
 
 A transmitter and receiver system that detects the audio signal and activates a remote LED positioned within the camera's field of view.
+
+<p align="center">
+  <img width="650" alt="WIRELESS TRIGGER INFO" src="https://github.com/user-attachments/assets/8e077cb0-110b-4b35-9190-d9e9affa6c4c" />
+</p>
 
 **3. Hybrid System**
 
 A combined configuration integrating the optical beacon and wireless transmission, allowing simultaneous local and remote visual indication.
 
-**1. Optical Beacon:**
-<p align="center">
-  <img width="650" alt="BEACON INFO" src="https://github.com/user-attachments/assets/ce617b3a-61b2-4e8a-990d-884d4ec76a77" />
-</p>
-
-<br>
-
-**2. Wireless Trigger:**
-<p align="center">
-  <img width="650" alt="WIRELESS TRIGGER INFO" src="https://github.com/user-attachments/assets/8e077cb0-110b-4b35-9190-d9e9affa6c4c" />
-</p>
-
-<br>
-
-**3. Hybrid System:**
 <p align="center">
   <img width="650" alt="COMBO INFO" src="https://github.com/user-attachments/assets/9e2d3242-bbf5-4dfa-b9f9-56d1b82c09ff" />
 </p>
@@ -90,11 +83,11 @@ The development included:
 
 Circuit configurations were evaluated experimentally and refined based on oscilloscope measurements.
 
+
 <p align="center">
-  <img width="816" height="924" alt="Prototipo desfoque" src="https://github.com/user-attachments/assets/cbdc5262-9df3-47b7-8025-cb3753fd0fce" />
+  <img width="500" alt="Electronics Prototype" src="https://github.com/user-attachments/assets/cbdc5262-9df3-47b7-8025-cb3753fd0fce" />
 </p>
 
-<br>
 <br>
 
 ### 3. Audio Waveform Analysis
