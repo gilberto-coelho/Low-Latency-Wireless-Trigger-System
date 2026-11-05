@@ -44,17 +44,19 @@ A transmitter and receiver system that detects the audio signal and activates a 
 
 A combined configuration integrating the optical beacon and wireless transmission, allowing simultaneous local and remote visual indication.
 
-<img width="5456" height="2734" alt="BEACON INFO" src="https://github.com/user-attachments/assets/ce617b3a-61b2-4e8a-990d-884d4ec76a77" />
-
-<br>
-<br>
-
-<img width="5512" height="2762" alt="WIRELESS TRIGGER INFO" src="https://github.com/user-attachments/assets/8e077cb0-110b-4b35-9190-d9e9affa6c4c" />
-
-<br>
-<br>
-
-<img width="5470" height="2741" alt="COMBO INFO" src="https://github.com/user-attachments/assets/9e2d3242-bbf5-4dfa-b9f9-56d1b82c09ff" />
+<table>
+  <tr>
+    <td width="33.33%">
+      <img width="5456" height="2734" alt="BEACON INFO" src="https://github.com/user-attachments/assets/ce617b3a-61b2-4e8a-990d-884d4ec76a77" />
+    </td>
+    <td width="33.33%">
+      <img width="5512" height="2762" alt="WIRELESS TRIGGER INFO" src="https://github.com/user-attachments/assets/8e077cb0-110b-4b35-9190-d9e9affa6c4c" />
+    </td>
+    <td width="33.33%">
+      <img width="5470" height="2741" alt="COMBO INFO" src="https://github.com/user-attachments/assets/9e2d3242-bbf5-4dfa-b9f9-56d1b82c09ff" />
+    </td>
+  </tr>
+</table>
 
 <br>
 <br>
@@ -99,22 +101,29 @@ Signals with sharp initial rising edges produced considerably faster triggering,
 
 This analysis demonstrated that system performance depends not only on the electronic hardware but also on the characteristics of the input signal.
 
-<img width="560" height="311" alt="image" src="https://github.com/user-attachments/assets/53ecbb32-dae7-4032-828c-fc68943e1b70" />
+<table>
+  <tr>
+    <td width="50%">
+      <img width="560" height="311" alt="image" src="https://github.com/user-attachments/assets/53ecbb32-dae7-4032-828c-fc68943e1b70" />
+    </td>
+    <td width="50%">
+      <img width="562" height="314" alt="image" src="https://github.com/user-attachments/assets/dedeb6f0-ef4b-490a-9709-f9d829ba76fe" />
+    </td>
+  </tr>
+</table>
 
 <br>
-<br>
 
-<img width="562" height="314" alt="image" src="https://github.com/user-attachments/assets/dedeb6f0-ef4b-490a-9709-f9d829ba76fe" />
-
-<br>
-<br>
-
-<img width="560" height="311" alt="image" src="https://github.com/user-attachments/assets/87ba6b69-d379-402f-bc9c-97cc0ae83058" />
-
-<br>
-<br>
-
-<img width="560" height="311" alt="image" src="https://github.com/user-attachments/assets/65a417e2-3ea3-429c-8170-9c063d90b9b7" />
+<table>
+  <tr>
+    <td width="50%">
+      <img width="560" height="311" alt="image" src="https://github.com/user-attachments/assets/87ba6b69-d379-402f-bc9c-97cc0ae83058" />
+    </td>
+    <td width="50%">
+      <img width="560" height="311" alt="image" src="https://github.com/user-attachments/assets/65a417e2-3ea3-429c-8170-9c063d90b9b7" />
+    </td>
+  </tr>
+</table>
 
 <br>
 <br>
@@ -150,13 +159,16 @@ After an improved audio waveform was provided for evaluation, the measured laten
 
 This result highlighted the importance of analyzing the complete signal chain rather than focusing exclusively on the electronic circuit.
 
-
-<img width="671" height="374" alt="image" src="https://github.com/user-attachments/assets/f3f57b40-0c2f-4efd-aa08-2d17af2d8c96" />
-
-<br>
-<br>
-
-<img width="672" height="379" alt="image" src="https://github.com/user-attachments/assets/55039975-0f78-43f7-86d0-8f41da26a29a" />
+<table>
+  <tr>
+    <td width="50%">
+      <img width="671" height="374" alt="image" src="https://github.com/user-attachments/assets/f3f57b40-0c2f-4efd-aa08-2d17af2d8c96" />
+    </td>
+    <td width="50%">
+      <img width="672" height="379" alt="image" src="https://github.com/user-attachments/assets/55039975-0f78-43f7-86d0-8f41da26a29a" />
+    </td>
+  </tr>
+</table>
 
 <br>
 <br>
@@ -167,12 +179,16 @@ Following the experimental investigations, PCB layouts and electronic integratio
 
 The design process considered component placement, electrical connections, enclosure integration, power distribution, and practical assembly requirements.
 
-<img width="937" height="661" alt="Desfoque circuito" src="https://github.com/user-attachments/assets/3701b6b8-88f2-4753-bedf-c996151ec69f" />
-
-<br>
-<br>
-
-<img width="473" height="349" alt="image" src="https://github.com/user-attachments/assets/cf823571-a32b-4df9-9878-a3187c4fd62c" />
+<table>
+  <tr>
+    <td width="50%">
+      <img width="937" height="661" alt="Desfoque circuito" src="https://github.com/user-attachments/assets/3701b6b8-88f2-4753-bedf-c996151ec69f" />
+    </td>
+    <td width="50%">
+      <img width="473" height="349" alt="image" src="https://github.com/user-attachments/assets/cf823571-a32b-4df9-9878-a3187c4fd62c" />
+    </td>
+  </tr>
+</table>
 
 <br>
 <br>
@@ -191,9 +207,10 @@ The mechanical development involved 3D CAD modeling of the device configurations
 
 The CAD models were developed to evaluate the physical arrangement, accessibility, and integration of the electronic components.
 
+<img width="459" height="380" alt="image" src="https://github.com/user-attachments/assets/c708c95e-6da6-4918-871d-d4372bdff264" />
 
-
-
+<br>
+<br>
 
 ### 8. Technical Documentation and Cost Estimation
 
@@ -203,21 +220,7 @@ This stage involved evaluating component requirements, manufacturing considerati
 
 The work demonstrated the transition from experimental electronic development toward a structured product design proposal.
 
-## Skills Demonstrated
-
-- Electronic circuit design and prototyping
-- Analog signal processing and waveform analysis
-- Low-latency hardware development
-- Wireless communication systems
-- PCB design and electronic integration
-- Oscilloscope measurements and troubleshooting
-- Latency and jitter characterization
-- Electronic component research and selection
-- Embedded control and firmware development
-- Power management and electrical isolation
-- 3D CAD modeling and enclosure design
-- Technical documentation and cost estimation
-- Requirements analysis and product development
+<br>
 
 ## Project Documentation and Confidentiality
 
