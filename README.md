@@ -144,7 +144,7 @@ Two configurations were tested: the standalone trigger circuit and the complete 
 | Maximum latency | 103 µs | 244 µs |
 | Measurements | 39 | 55 |
 
-These prototype measurements demonstrated sub-millisecond response times with low timing variation under the evaluated test conditions.
+These prototype measurements demonstrated sub-millisecond response times with low timing variation under the evaluated test conditions. In the oscilloscope measurements below, the yellow trace (Probe A) represents the audio trigger signal, while the blue trace (Probe B) represents the LED activation signal.
 
 <img width="563" height="316" alt="image" src="https://github.com/user-attachments/assets/8d8684b4-40dc-465e-b924-1f84969496a1" />
 
@@ -159,7 +159,9 @@ An initial electronic starting sound produced approximately 4.5 ms of latency du
 
 After an improved audio waveform was provided for evaluation, the measured latency decreased to approximately **232 µs**, meeting the sub-millisecond timing requirement under the tested conditions.
 
-This result highlighted the importance of analyzing the complete signal chain rather than focusing exclusively on the electronic circuit.
+This result highlighted the importance of analyzing the complete signal chain rather than focusing exclusively on the electronic circuit. In the *Fixed Eshot* audio file, the initial low-amplitude, noisy portion of the waveform was removed, allowing the trigger circuit to detect the first peak more reliably and reducing the latency from approximately 4.5 ms to 232 µs.
+
+**Adjustable Trigger Sensitivity:** The circuit also includes a potentiometer for adjusting the trigger sensitivity, allowing it to accommodate different types of audio signals and waveform characteristics.
 
 <table>
   <tr>
